@@ -1,5 +1,5 @@
 {
-    "iphone_url": "http://admin:admin@10.0.243.90:8081/video",
+    "iphone_url": "",
     "delay_seconds": 1.0,
     "replay_seconds": 10.0,
     "playback_speed": 0.5
