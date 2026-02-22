@@ -1,3 +1,5 @@
+[Here you can see the new logo image, which is a tight crop of the camera with the baseball lens and "MOUND MIRROR" text, centered at the top.]
+
 # Mound Mirror (v0.5 Beta) ⚾🎥
 
 Mound Mirror is a localized, low-latency delayed video feedback system designed specifically for baseball pitchers during bullpen sessions. By utilizing a wireless catcher-POV camera and a configurable rolling frame buffer, pitchers can throw a pitch and immediately watch their own mechanics without needing a coach to manually record and play back the footage.
