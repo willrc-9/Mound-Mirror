@@ -24,7 +24,7 @@ jobs:
 
     - name: Build with PyInstaller
       run: |
-        pyinstaller --noconsole --onefile --name="MoundMirror6.0" MoundMirror6.0.py
+        pyinstaller --noconsole --onefile --name="MoundMirror" MoundMirror.py
 
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
